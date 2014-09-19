@@ -4,7 +4,7 @@
 <http://p1.kennethleung23-dwa15.biz/P1_Ken_Leung.html>
 
 ## GitHub URL
-<http://p1.kennethleung23-dwa15.biz/P1_Ken_Leung.html>
+<https://github.com/kennethleung23/dwa15_p1>
 
 ## Description
 This is the first project for this class. I’ve created a HTML page by leveraging some of the bootstrap library and CSS. Looking forward to work on more exciting projects for this class.
