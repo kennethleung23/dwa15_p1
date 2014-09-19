@@ -1,0 +1,19 @@
+<style>
+	
+		h1 {
+			text-align:center;
+		}
+	
+		.container {
+			width:50%;
+			min-width:600px;
+			margin-bottom:50px;
+		}	
+		
+		img {
+			display:block;
+			margin:auto;
+			width:50%;
+		}
+	
+</style>
